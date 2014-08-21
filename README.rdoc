@@ -1,28 +1,4 @@
-== README
+#Ruby on Rails tutorials:First Application 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is the next first applciation for RoR
+(https://www.youtube.com/watch?v=_P5g2gpabfo&index=7&list=PLVBFw0Pn9e9L7SOKtL8x4Av39drO5Oi-Q)
